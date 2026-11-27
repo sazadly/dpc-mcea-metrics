@@ -1,0 +1,4 @@
+# Preserve exact file bytes for the SHA-256 manifest across platforms.
+/cv_graph.m -text
+/results/** -text
+/SHA256.json -text
